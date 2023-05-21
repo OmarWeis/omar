@@ -2,6 +2,7 @@
 this is my homework.  -->
 # A
 
+
 import csv
 L1 = ['HTTP', 'HTTPS', 'FTP', 'DNS']
 L2 = [80, 443, 20, 53]
